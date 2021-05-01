@@ -27,20 +27,19 @@ EDA
 
 Here are a few of the relationships I visualized:
 
-![Screenshot (22)](https://user-images.githubusercontent.com/72377927/116794624-0292f800-aa94-11eb-8d2a-577d6109c3d2.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/72377927/116795683-6faa8b80-aa9c-11eb-844e-c8de0eaaf801.png)
 
-![Screenshot (23)](https://user-images.githubusercontent.com/72377927/116794822-afba4000-aa95-11eb-98ab-43e10cbf2190.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/72377927/116795691-7cc77a80-aa9c-11eb-8239-f953e40b59eb.png)
 
-![Screenshot (24)](https://user-images.githubusercontent.com/72377927/116794840-dd06ee00-aa95-11eb-9d7e-a9406b12b8e5.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/72377927/116795695-82bd5b80-aa9c-11eb-9cd9-ae955407c35b.png)
 
-![Screenshot (25)](https://user-images.githubusercontent.com/72377927/116794844-ded0b180-aa95-11eb-97e0-d23caa33b6bd.png)
-
+![Screenshot (31)](https://user-images.githubusercontent.com/72377927/116795698-8650e280-aa9c-11eb-940b-9fcad643e66d.png)
 
 Machine Learning:
 
-![Screenshot (26)](https://user-images.githubusercontent.com/72377927/116795004-43d8d700-aa97-11eb-93b4-71217a4d69de.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/72377927/116795703-8e108700-aa9c-11eb-8554-fbd9d2ffe305.png)
 
-![Screenshot (27)](https://user-images.githubusercontent.com/72377927/116795014-5b17c480-aa97-11eb-81cc-bf8804fd592a.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/72377927/116795707-910b7780-aa9c-11eb-9457-009c7214c8d5.png)
 
 Results:
 
